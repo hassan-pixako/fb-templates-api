@@ -34,7 +34,7 @@ API Endpoints
     :form opacity: Opacity of the overlay.
 
     Example Response
-        .. image:: _build/images/bottom-left.png
+        .. image:: images/bottom-left.png
 
 
     :form heading: Michael Jackson
